@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="db1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/classes/com/db/postgresql-9.4.1209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/classes/com/db/primefaces-5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
